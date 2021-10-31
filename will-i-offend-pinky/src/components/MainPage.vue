@@ -105,7 +105,7 @@
               :href="wikipediaThisDay"
             ><SearchOutlined /> 查看维基百科 </a>  <span style="padding: 0 5px">|</span> <a
               target="_blank"
-              href="https://github.com"
+              href="https://github.com/shihChenTo/Will-I-Offend-Pinky/issues"
             ><PullRequestOutlined /> 提交需要注意的数据</a>
           </a-typography-paragraph>
           <a-typography-paragraph type="secondary">
