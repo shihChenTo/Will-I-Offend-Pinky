@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c29af8fd2200f1e4183",
-    "url": "/Will-I-Offend-Pinky/css/app.1311ed89.css"
+    "revision": "6bb1b7b9cfa935c8d3e8",
+    "url": "/Will-I-Offend-Pinky/css/app.d3730a1d.css"
   },
   {
-    "revision": "216e41289ee6381ce1a4",
+    "revision": "11bafc3206b7e9433568",
     "url": "/Will-I-Offend-Pinky/css/chunk-vendors.313f2288.css"
   },
   {
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Will-I-Offend-Pinky/icons/site.webmanifest"
   },
   {
-    "revision": "151fa4d4d3181fab4ba2daa28125a6fc",
+    "revision": "cfccda8868167d85dc196a2d3dc4ac1f",
     "url": "/Will-I-Offend-Pinky/index.html"
   },
   {
-    "revision": "6c29af8fd2200f1e4183",
-    "url": "/Will-I-Offend-Pinky/js/app.6b3f6008.js"
+    "revision": "6bb1b7b9cfa935c8d3e8",
+    "url": "/Will-I-Offend-Pinky/js/app.6200c6e5.js"
   },
   {
-    "revision": "216e41289ee6381ce1a4",
-    "url": "/Will-I-Offend-Pinky/js/chunk-vendors.483a31f6.js"
+    "revision": "11bafc3206b7e9433568",
+    "url": "/Will-I-Offend-Pinky/js/chunk-vendors.84a714d0.js"
   },
   {
     "revision": "f5ab94e1572722f9222e14ae4f15b67a",

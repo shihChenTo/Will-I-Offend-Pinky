@@ -1,6 +1,7 @@
 module.exports = {
-  publicPath: '/Will-I-Offend-Pinky/', 
+  publicPath: '/Will-I-Offend-Pinky/',
   runtimeCompiler: true,
+
   pwa: {
     name: '我会冒犯***吗？',
     iconPaths: {
@@ -11,6 +12,7 @@ module.exports = {
       msTileImage: './icons/mstile-150x150.png'
     }
   },
+
   chainWebpack: config => {
     config
         .plugin('html')
@@ -18,5 +20,7 @@ module.exports = {
             args[0].title = "我会冒犯***吗？😅";
             return args;
         })
-  }
+  },
+
+  outputDir: '../doc'
 }

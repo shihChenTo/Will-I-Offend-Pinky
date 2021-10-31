@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Will-I-Offend-Pinky/precache-manifest.25daf4fc430bca7df9db7e5142ddadd5.js"
+  "/Will-I-Offend-Pinky/precache-manifest.4311c1e5cd90f53cec136a97a8c0ecb8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "will-i-offend-pinky"});

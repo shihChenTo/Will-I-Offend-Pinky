@@ -164,7 +164,7 @@ export default defineComponent({
   },
   computed: {
     wikipediaThisDay() {
-      return "https://zh.wikiedia.org/wiki/" + this.date.format('M月D日')
+      return "https://zh.wikipedia.org/wiki/" + this.date.format('M月D日')
     },
     // dataOfTheDay() {
     //   let newData = reactive({});
