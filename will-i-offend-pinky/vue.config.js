@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/Will-I-Offend-Pinky/', 
   runtimeCompiler: true,
   pwa: {
     name: '我会冒犯***吗？',
